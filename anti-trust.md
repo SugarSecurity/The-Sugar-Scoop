@@ -118,6 +118,12 @@ Roasted? Google also has stated that they provide services that support police a
 Brings up Cambridge Analytica. They did pro-Russia and anti-USA research that was powered by Facebook. Does Zuckerberg see it as something they need to address, or is that just the cost of business? Zuckerberg throws some numbers - they have donated X dollars and have Y employees working on cybersecurity, election system development, 89% of hate speech removed? Missed that number --- gets cut off by Baskin. What about the 6.5 billion FAKE accounts that 1. cause political problems and 2. are profitable to facebook's numbers. Zuck says he knows those things are damaging to society AND to their platform.
 
 ## Intermission
-There was a technical problem with someone so they are taking an intermission. I didn't notice anything. Everyone is masked for COVID.It's 2:38 Eastern time and while writing this I have also gotten the attention of some friends who want to watch and help report. Awesome
+There was a technical problem with someone so they are taking an intermission. I didn't notice anything. Everyone is masked for COVID.It's 2:38 Eastern time and while writing this I have also gotten the attention of some friends who want to watch and help report. Awesome. Let's talk about Zero Trust and Anti-Trust more. 
 
+### Zero Trust
+If you Google (ha) Zero Trust, you will see a lot of results from major tech / cybersecurity companies blogging about how their security model incorporates the concept of Zero Trust. Of course the first and biggest result is from CloudFlare which has a partnership with Google, What does that mean though? 
 
+###TODO COME BACK TO THIS LATER
+
+## we're back. Mr. Armstrong to Google
+Does Google's market control around advertising and analytics is big. Possibly so big and out of control that it is non-compliant with GDPR. Google may be refusing to disclose how they advertise and track users?  Sundhar @ Google says he doesn't believe there is anything there. 
