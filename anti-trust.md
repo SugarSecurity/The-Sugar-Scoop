@@ -2,19 +2,10 @@
 
 As a cybersecurity and tech CEO, I think abouit the concepts of trust a lot. Many of the smartest people I work with are pursuing ways to make things like encryption work with "Zero Trust", and now I have the oppurtunity to view an ANTI-trust congressional hearing. Interesting...
 
-One major point that a reporter made earlier is that these men are often never speaking, unscripted, before a public forum. Opening statements will be clean but I cant wait for things to deteriorate.
+One major point that a reporter made earlier is that these Tech CEOs often never speak, unscripted, in a public forum.
 
 ## The Year is 2016...
-
-
-
-
-
-# TO DO TO DO
-Before publish come back with notebook
-Fear and Loating Audio type thing
-
-
+Zuckerberg story
 
 ## Anti-Trust Congress July 29th 2020
 
@@ -126,4 +117,67 @@ If you Google (ha) Zero Trust, you will see a lot of results from major tech / c
 ###TODO COME BACK TO THIS LATER
 
 ## we're back. Mr. Armstrong to Google
-Does Google's market control around advertising and analytics is big. Possibly so big and out of control that it is non-compliant with GDPR. Google may be refusing to disclose how they advertise and track users?  Sundhar @ Google says he doesn't believe there is anything there. 
+Does Google's market control around advertising and analytics is big. Possibly so big and out of control that it is non-compliant with GDPR. Google may be refusing to disclose how they advertise and track users?  Sundhar @ Google says he doesn't believe there is anything there. Armstrong also expresses concerns with geofencing and GPS tracking with things like Fitbit, GoPro, etc. being sold to China. Congressman asks if Google's data should be public record though? I don't think so... sort of a weird question. 
+
+### It has been an hour and no questions for Bezos yet... I am watching this video on a Washington Post live stream which is also owned by Bezos. 
+
+## Speak of the Devil! To Bezos from Jayapal
+does Amazon access data for third party sales, split competitors into very small categories to shrink them, do they enforce data policies? Bezos video cut out when Jayapal follows up? Bezos is back, says that aggregate data from large numbers of third party sellers allow them to get large amounts of consumer and business data. Sales reports, product reports, inventory, reviews, advertising costs, unit costs, shipping costs, and then Amazon will use that data to launch a competitor. Whoa.
+
+Bezos of course responds with "thank you for the oppurtunity to answer this questions yadda yadda," Jayapal says that her time is expiring and they need to wrap up. Committee is concerned that Amazon can abuse access to data and third parties to launch competitors and bully.  My android phone (Google) gives me an Ad for Post Malone coming onto the Joe Rogan Experience on YouTube (Google).
+
+## Rep Steube to Google
+He gives a personal story of him googling something for himself and seeing that the best search result ("Gateway Pundit") was nowhere to be found. And then a week later, once Google finds out they are testifying, it pops to the top. So what has Google changed?
+
+Coherent question, wow. Google responds with virtue signalling. Freedom of expression, thanks for the question, I don't know about this, etc etc. We will do our best to follow up.
+
+Steube follows up and says that his campaign emails are getting marked as Spam on Gmail!!
+
+## Aside - Dee is here, explaining the background a bit to him, eating
+
+## Charman J Republican asks about conspiracy about siding with China, etc. Sort of Partisan
+
+## Scanlon to Bezos
+Dem, disses Republican, bit of a spat. So dumb. At least her question is good. Amazon buys competitors, cuts promotions, fires staffs, redirects traffic on their site. She has specific documents and companies. Bezos says he doesnt remember, it was 11 years ago. 
+
+## to Zuck
+Facebook is Over 90% of social media. Facebook CFO says they are going for a land grab. Bought competitors WhatsApp, Instagram. Emails documented saying that Facebook has so much money they could buy any competitor, "Well Played" and Zuckerberg says "Thanks." 
+
+Zuckerberg claims those emails were a joke. Congressman says its a monopoly. 
+
+## McBath to Bezos
+Plays recording of previous Amazon employee / competitor? Oh it's the Diaper thing. They say Amazon partnered with a diaper company, started a competitor, delisted them, and shut them down. Over 500 communications to Amazon (including Bezos) and no meaningful response. Bezos says it's anecdotal and they would NEVER...
+
+McBath responds saying he is missing the point and that there is a pattern with Amazon doing this with other companies. Bezos deflects, reiterating Ethos about rise from being a simple farm boy. 
+
+## First Round Done. Back to the chair. Cicilline says to Bezos...
+Amazon is 7x the market share of it's closest competitor (Shopify?). It's impossible for small sellers to compete with Amazon. Bezos says they want to HELP small sellers. Thats the center of the problem though. Cicilline refers to Internal documentation showing that Amazon refers to third parties as "internal competitors". Bezos doesnt deny
+
+Cicilline quotes another person saying that Amazon strings third parties and partners along with small paychecks here and there. Then they shut them down. Compared to a drug dealer. Bezos disagrees.
+
+Cicilline asks for examples of policy violations where third parties are listing on Amazon and then being undercut, as a result of Amazon requesting that data from them as partners. Bezos says we have a policy. Cicilline says the policy is violated routinely. Bezos says they are investigating. 
+
+
+## Sensenbrenner says...
+We don't need to change the anti-trust laws. They are fine. We need to enforce them though. Facebook acquiring Instagram and Whatsapp and others were signed off by the FTC. 
+
+But we are back to where we were in 1984 with AT&T proving Congress can't enforce this stuff well.
+
+### Bezos admits one of the things they are doing is not beneficial to consumers. Sort of missed it, seems important though. 
+
+## Jayapal quotes Facebook email to Zuck
+Internal emails saying that Facebook is shutting down and copying competitors and people that try to use their platform. How many competitors did you target? 5? 50? Zuckerberg seems to deny the premise. Zuckerberg says they would never threaten. Jayapal does another quoted internal email related to Facebook Camera competitor with Instagram. Insta felt FORCED to sell to Facebook because they would have been crushed otherwise. 
+
+Jayapal wraps up saying that a dominant platform should never abuse their position to copy, acquire, or kill rivals. Facebook has threatened and dominated the market to gain more and more data and users and money which self-feeds back into the problem. Harms the economy and consumers. 
+
+## Back to Mr. Buck to Bezos
+Amazon uses proprietary data from third party companies and startups to copy, acquire, kill. Amazon made their own pop sockets and shoved the real ones way way down. Then once Pop Sockets paid $2m to Amazon they popped back up to the top. W T F
+
+Also used venture capital meetings with Startups to get sensitive IP data, then make a competitor. This is especially troubling.  Quotes VocaLite startup which was meeting for VC funding and then killed by Amazon. 
+
+Also quotes Amazon supply chains relying on forced communist chinese labor. Then simple yes/no question to all CEOs. Would you agree under oath that you will never use Slave/Forced labor? Tim Cook is a quick yes. Everyone else follows.
+
+## Mr Baskin - Calls the CEOs Cyber Barons
+Bezos first - Amazon is a gatekeeper to things like web streaming, e-commerce. Is currently wrapped up with HBO Max / Fire stick and won't approve until they get IP rights to media content?? Bezos says he doesn't know and hopefully they can come to an agreement. Baskin reiterates that yes this specific example is 2 decently sized companies negotiating but Amazon is still the strong arm. And there are millions of small companies that can not negotiate. 
+
+Smart Homes example - Echo is normally priced way below cost, making competition impossible. They have enough money to burn and want to control the space. Also Ring. Mr. Baskin quotes another document with Amazon on record saying when they bought Ring they don't care about the tech they mostly want the market position and control. 
