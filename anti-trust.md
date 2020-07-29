@@ -1,19 +1,21 @@
 # Sugar Security Scoop 1 - Trust and Anti-Trust
 
-As a cybersecurity and tech CEO, I think abouit the concepts of trust a lot. Many of the smartest people I work with are pursuing ways to make things like encryption work with "Zero Trust", and now I have the oppurtunity to view an ANTI-trust congressional hearing. Interesting...
+As a cybersecurity and tech CEO, I can't help but think about the concept of Trust. Some of the smartest people I work with are pursuing ways to make things like encryption and access management work with "Zero Trust". In other words, systems where no single entity has full control of all of the data / decision making.
 
-One major point that a reporter made earlier is that these Tech CEOs often never speak, unscripted, in a public forum.
+Now I have the oppurtunity to view an ANTI-trust congressional hearing. Interesting...
 
-## The Year is 2016...
+# The Year is 2016...
 Zuckerberg story
 
-## Anti-Trust Congress July 29th 2020
+# Anti-Trust Congress July 29th 2020
 
-Coronavirus pandemic has infected over 4 million americans and killed over 150k.
+Coronavirus pandemic has infected over 4 million americans and killed over 150k. The US Economy has grinded to a halt.
 
-The US Economy has grinded to a halt
+But these 4 companies are booming, and are worth over $5 Trillion combined - an unprecedented amount.
 
-But these 4 companies are booming, and are worth over $5 Trillion combined - an unprecedented amount
+
+
+Only Zuckerberg has spoken to Congress before (regarding data security and privacy) and most of these CEOs avoid public forums entirely. 
 
 ## The Companies 
 
@@ -33,9 +35,6 @@ Super Hacked, Control communications fow how many? Ads, Marketplace
 ### Google
 Online Ads, foundation, android OS on EVERYTHING (voting machines)
 
-
-
-
 ## Initial Statements from the CEOs
 
 Each of the tech CEOs gets 5 minutes and of course they're all going to use the entire 5 minutes exactly. 
@@ -44,11 +43,11 @@ Each of the tech CEOs gets 5 minutes and of course they're all going to use the 
 
 Ethos followed by Pathos. Born from a working class, American Dream, wants to cooperate, etc. Logos = "but we are only 1% of global retail market!"
 
-## Sundar Pichai, Google
+### Sundar Pichai, Google
 
 Same sort of speech as Bezos. "We make cheap phones for poor people, we donate to charity". Virtue signaling and rhetoric. That's all these CEOs do. They know how to talk nice, but I don't think it will fly among the congressional committe. We will see
 
-## Tim Cook, Apple
+### Tim Cook, Apple
 Starts with an in memorium for some guy. Wow, see what I mean? Then tells his story
 
 
@@ -114,7 +113,7 @@ There was a technical problem with someone so they are taking an intermission. I
 ### Zero Trust
 If you Google (ha) Zero Trust, you will see a lot of results from major tech / cybersecurity companies blogging about how their security model incorporates the concept of Zero Trust. Of course the first and biggest result is from CloudFlare which has a partnership with Google, What does that mean though? 
 
-###TODO COME BACK TO THIS LATER
+### TODO COME BACK TO THIS LATER
 
 ## we're back. Mr. Armstrong to Google
 Does Google's market control around advertising and analytics is big. Possibly so big and out of control that it is non-compliant with GDPR. Google may be refusing to disclose how they advertise and track users?  Sundhar @ Google says he doesn't believe there is anything there. Armstrong also expresses concerns with geofencing and GPS tracking with things like Fitbit, GoPro, etc. being sold to China. Congressman asks if Google's data should be public record though? I don't think so... sort of a weird question. 
@@ -180,4 +179,18 @@ Also quotes Amazon supply chains relying on forced communist chinese labor. Then
 ## Mr Baskin - Calls the CEOs Cyber Barons
 Bezos first - Amazon is a gatekeeper to things like web streaming, e-commerce. Is currently wrapped up with HBO Max / Fire stick and won't approve until they get IP rights to media content?? Bezos says he doesn't know and hopefully they can come to an agreement. Baskin reiterates that yes this specific example is 2 decently sized companies negotiating but Amazon is still the strong arm. And there are millions of small companies that can not negotiate. 
 
-Smart Homes example - Echo is normally priced way below cost, making competition impossible. They have enough money to burn and want to control the space. Also Ring. Mr. Baskin quotes another document with Amazon on record saying when they bought Ring they don't care about the tech they mostly want the market position and control. 
+Smart Homes example - Echo is normally priced way below cost, making competition impossible. They have enough money to burn and want to control the space. Also Ring. Mr. Baskin quotes another document with Amazon on record saying when they bought Ring they don't care about the tech they mostly want the market position and control. Alexa defaults to Amazon music, Amazon batteries and products, etc. Is Amazon training alexa to promote their own products. 
+
+Bezos says yes but nothing wrong with that. Promoting your own products is normal.
+
+## Gaetz to Pichai
+Google took $15M from Chinese government to work on AI partnership. Also leaked memo describing a blacklist of "fringe" news sites. Quick aside from the author - https://www.ctvnews.ca/sci-tech/canadian-smart-glasses-going-offline-weeks-after-company-bought-by-google-1.5042010
+
+Pichai goes back and forth regarding whether or not they manually or automatically handle things like blacklists, copyright striking, etc. Pichai agrees there is a manual element to the way in which sites are ranked and blacklisted. Gaetz says right wing sites are usually punished. Also anti-google articles. 
+
+## Hank Johnson to Bezos
+Amazon makes money when counterfeit goods are sold, and Amazon has a history of being loose and slow with enforcing anti-counterfeitting. Bezos responds he agrees, counterfeitting is a scourge, Amazon has a policy to investigate. Hank cuts him off saying that yes they have policies but they don't enforce it. They use knock off products to push off competitors. Pop Sockets for example, again. Bezos says he would rather lose money than a customer and he wants customers to trust Amazon. 
+
+Hank says companies selling on their platform get buried unless they pay extra for ads.  Bezos says yeah thats how advertising works. 
+
+### Brief Recess
