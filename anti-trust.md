@@ -4,16 +4,11 @@ As a cybersecurity and tech CEO, I can't help but think about the concept of Tru
 
 Now I have the oppurtunity to view an ANTI-trust congressional hearing. Interesting...
 
-# The Year is 2016...
-Zuckerberg story
-
 # Anti-Trust Congress July 29th 2020
 
 Coronavirus pandemic has infected over 4 million americans and killed over 150k. The US Economy has grinded to a halt.
 
 But these 4 companies are booming, and are worth over $5 Trillion combined - an unprecedented amount.
-
-
 
 Only Zuckerberg has spoken to Congress before (regarding data security and privacy) and most of these CEOs avoid public forums entirely. 
 
@@ -224,3 +219,14 @@ Neguse brings up DefineCrowd allegations. Wow wow wow
 # Absolute Banger from Cicilline to Zuck
 ### Even with policies in place, Facebook can't control their own, DEADLY content. They have allowed and still allows dangerous, deadly videos (Fake Med News) to circulate to tens of millions before they remove it. Just the tip of the ice berg. Facebook has tens of thousands of white supremacy pages, etc. They get away with it because they have no competitors because they shut down or buy all their competitors. 
 
+## Gaetz to Bezos
+Southern Poverty Law Center controls who can be donated by Amazon Smile. They have blacklisted Dr. Ben Carson and many other conservative charities as hate speech. 
+
+Bezos basically rephrases the whole question, acknowledges the system isn't perfect.
+
+## Johnson from Georgia to Zuck about Instagram Acquisition
+Facebook could "make more bold decisions on whether a competitor was friend or foe" via market research. Of course Zuck replies saying he doesn't know. Follow up is that Facebook bought Onavo as well for digital surveilance around their competitors. 
+
+Facebook incentivized Teens to install the Facebook Research App for market research. This app was then thrown out of the app store. 
+
+# ITS OVER
