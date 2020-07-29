@@ -194,3 +194,33 @@ Amazon makes money when counterfeit goods are sold, and Amazon has a history of 
 Hank says companies selling on their platform get buried unless they pay extra for ads.  Bezos says yeah thats how advertising works. 
 
 ### Brief Recess
+
+## Demings to Zuckerberg
+Quotes articles from 2012, 2013, and 2014 (Facebook was not a small company) where internal Facebook employees state they will be putting a large amount of pressure on Pinterest, MessageMe, etc. to shut down competitors so they can make their own version. 
+
+## Demings to Cook
+Same sort of question. Apple picks who succeeds and fails. Kids use tablets to learn, Apple dominates tablets, Apple shuts down children education apps unless they pay a large amount, including ones from governments from foreign countries. One from American private company kicked out. One from Saudi government that pays a lot of money stays. 
+
+## Zuck just got accused of lying before congress about firing someone for political stance. Let's crack some beers
+
+## Scanlon to Pichai
+Why did Google purchase YouTube? Pichai says this was 2006 and he was not there, but he believes the company saw an oppurtunity. Cut off asking who made the decision, moving on...
+
+Google is the top site for children's videos via YouTube. It is illegal to advertise to children but YouTube did it. Wtf? Pichai says we have good policies around this and we enforce it.
+
+Scanlon says that they are STILL luring in investment from Hasbro and other childrens advertisers by claiming it is the largest children's advertisers. Pichai deflects.
+
+Scanlon references Wall Street Journal report and audits about how content creators can control ads for kids. Says Google is being difficult around those rules
+
+## Neguse to Bezos
+Negus came up before but I missed his name and was maybe doing something. He is Vice-Chair from Colorado. He asks Bezos about the broad definition Bezos gave for the retail market size. Sure, Retail is 1% of all global retail, but 40% or more of e-commerce. Bezos 
+
+Whoa mentions AWS startup partners. Does AWS use their partnership to build competing startup services? Online post from employee saying that they do this exact thing AND target the business's customers. Wow. Maybe it's time to shut down our Amazon partnership? 
+
+Neguse brings up DefineCrowd allegations. Wow wow wow
+
+## Sugar Security will no longer partner with Amazon
+
+# Absolute Banger from Cicilline to Zuck
+### Even with policies in place, Facebook can't control their own, DEADLY content. They have allowed and still allows dangerous, deadly videos (Fake Med News) to circulate to tens of millions before they remove it. Just the tip of the ice berg. Facebook has tens of thousands of white supremacy pages, etc. They get away with it because they have no competitors because they shut down or buy all their competitors. 
+
