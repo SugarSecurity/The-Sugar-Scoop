@@ -1,4 +1,5 @@
-Sugar Scoop
+# Sugar Scoop
+
 Anti-Trust Congress July 29th 2020
 Amazon = 70% of online Sales
 - Plus Small Biz Lending, Transportation, Movies, etc
