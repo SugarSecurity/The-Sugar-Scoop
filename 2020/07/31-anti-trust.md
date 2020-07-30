@@ -1,6 +1,6 @@
 # Sugar Security Scoop 1 - Trust, Trusts, and Anti-Trust
 
-> “To assume the best about another is the trait that has created modern society. Those occasions when our trusting nature gets violated are tragic. But the alternative - to abandon trust as a defense against predation and deception - is worse.”
+> "To assume the best about another is the trait that has created modern society. Those occasions when our trusting nature gets violated are tragic. But the alternative - to abandon trust as a defense against predation and deception - is worse.”
 > 
 > - **Malcolm Gladwell, Talking to Strangers**
 
