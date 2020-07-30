@@ -1,20 +1,50 @@
-# Sugar Security Scoop 1 - Trust and Anti-Trust
+# Sugar Security Scoop 1 - Trust, Trusts, and Anti-Trust
 
-As a cybersecurity and tech CEO, I can't help but think about the concept of Trust. Some of the smartest people I work with are pursuing ways to make things like encryption and access management work with "Zero Trust". In other words, systems where no single entity has full control of all of the data / decision making.
+> “To assume the best about another is the trait that has created modern society. Those occasions when our trusting nature gets violated are tragic. But the alternative - to abandon trust as a defense against predation and deception - is worse.”
+> 
+> - **Malcolm Gladwell, Talking to Strangers**
 
-Now I have the oppurtunity to view an ANTI-trust congressional hearing. Interesting...
+## Trust
 
-# Anti-Trust Congress July 29th 2020
+In Cybersecurity, we are always thinking about the concept of trust. As Mr. Gladwell explains above, for modern society to have things like banks, medical care, and restaurants, a lot of **trust** is required. This concept extends to the very core of humanity in things like family and friendship. 
 
-Coronavirus pandemic has infected over 4 million americans and killed over 150k. The US Economy has grinded to a halt.
+Trust can also be horrendously violated.
 
-But these 4 companies are booming, and are worth over $5 Trillion combined - an unprecedented amount.
+When designing a (network, website, mobile app, etc.) you never want to *assume the best* in people, or in your systems. Instead, your *product/thing* should only give out the **absolute bare minimum** level of access that is **absolutely necessary**.
 
-Only Zuckerberg has spoken to Congress before (regarding data security and privacy) and most of these CEOs avoid public forums entirely. 
+"Zero-trust" systems are buzzing.
 
-## The Companies 
+## Trusts
 
-All 4 = >5 Trilli, meanwhile small biz is crashing. Too much power over our information and economy and they are killing manufacturing, entrepreneurship, and other foundations of the economy. Because of these, it is impossible for the consumer to escape, no other options. 
+[The Business Dictionary](http://www.businessdictionary.com/definition/trust.html) defines *trust* (noun) as:
+
+> a legal entity created by a party (the trustor) through which a second party (the trustee) holds the right to manage the trustor's assets or property for the benefit of a third party (the beneficiary).
+
+# WAIT KEEP READING - no more legal definitions I swear
+
+A trust is a combination of companies and people that are allowed to manage things like houses, restaurants, or companies. **Trusts** require a lot of **trust** and without those we wouldn't have *critical foundations of modern life* like [U.S Steel](https://en.wikipedia.org/wiki/U.S._Steel) or [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)). 
+
+## Anti-Trust
+
+> The great Way is easy, yet people prefer the side paths. Be aware when things are out of balance. Stay centered 
+>
+> - **The Tao Te Ching**
+
+Anti-trust is just as important as trust. 
+
+**JP Morgan** was born very wealthy and married even wealthier. He got a job in banking and invested other people's money in land and gold. He sold the gold to the government during a depression for massive piles of cash. Morgan used his unprecedented wealth to buy up what he saw to be the critical infrastructure for the next century. Railroads, steel, and oil companies were all put under his umbrella into modern institutions like General Electric, U.S. Steel, and Chase Bank.
+
+Where would we be without Mr. Morgan and his rapid expansion? Maybe things would be better today, maybe they would be worse. You can weigh trains and netflix vs tanks and nukes.
+
+# House Anti-Trust Hearing - July 29th 2020 - Recorded Live
+
+We're in the same sort of spot today. Coronavirus pandemic has infected more than 4 million americans and killed over 150k. The US Economy has grinded to a halt.
+
+Amazon, Apple, Facebook, and Google are booming. These four companies are worth over five trillion dollars combined.
+
+
+
+How did they get there? They revolutionized commerce, advertising, entertainment, and human connection. They were early players who played hard and got 
 
 ### Amazon
 70% of online Sales
@@ -29,6 +59,10 @@ Super Hacked, Control communications fow how many? Ads, Marketplace
 
 ### Google
 Online Ads, foundation, android OS on EVERYTHING (voting machines)
+
+
+Only Zuckerberg has spoken to Congress before (regarding data security and privacy) and most of these CEOs avoid public forums entirely. 
+
 
 ## Initial Statements from the CEOs
 
