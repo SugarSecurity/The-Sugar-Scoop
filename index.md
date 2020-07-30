@@ -6,4 +6,4 @@
 
 ## [Trust, Trusts, and Anti-Trust](./2020/07/31-anti-trust) - July 31st, 2020
 
-## [Serverless Python APIs with AWS Chalice](./preview)
+## PREVIEW - [Serverless Python APIs with AWS Chalice](./preview)
