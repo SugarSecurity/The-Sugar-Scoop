@@ -10,7 +10,7 @@ Think of us like a next-gen MSSP in the cloud, providing small IT teams powerful
 ![product](../assets/images/product.png)
 
 ## November + December
-We are a family company and a charity company. These are holiday months so we are turning everything except the tech down a couple of notches.
+Sugar Security highly values family and charity. These are holiday months so we are turning everything except the tech down to a simmer until 2021. 
 
-## Beyond
-2021 is our more full-fledged launch year. Major tech upgrades, blogs, sales, and more!
+## 2021
+Major tech upgrades, blogs, then sales
