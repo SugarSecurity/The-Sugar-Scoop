@@ -45,4 +45,41 @@ Pentests are designed to look across your network and beyond but they can easily
 Consistency and quality can be hard to guarantee. Pen testers are human beings and pen testing requires a high-degree of creativity – you must think like a hacker. Many factors must be considered, and the result is inconsistencies in quality. This also leaves gaps in the auditability of pen testing.
 
 
+## Five Drawbacks of MSSPs
 
+In addition to penetration tests, many SMBs rely on Managed Security Service Providers, or MSSPs. You can think of an MSSP like a cybersecurity help desk. This model also has it's challenges, for many of the same reasons as penetration tests. 
+
+### 1. MSSPs are Expensive
+Yes, just like penetration tests, the average MSSP is simply outside of the budget of most small businesses. MSSPs become higher quality once you start paying for enterprise level service, but these contracts can run into the hundreds of thousands annualy. 
+
+### 2. High Turnover
+Behind every MSSP is a team of people. People can be lazy, or they can quit, which requires a new person to be trained up. Does that sound like something your organization wants to be paying for? Software-based solutions run 24/7 and can be "updated" much easier than a person. 
+
+### 3. Limited Support and Guidance
+Most MSSPs, especially at the lower tiers of payment agreements, will simply watch and alert you of security incidents. They don't offer insights as to *why* something might be behaving strangely, or *how* you go about fixing it. Any sort of additional support will cost you extra, and you might be paying for more expertise than the MSSP can provide. 
+
+### 4. Inconsistency and Miscommunication
+Your main point-of-contact with an MSSP is usually going to be an account manager, or someone else with a support/service specialty. They aren't technical, but they try their best to get your message to the technical people behind the scenes over phone call, email, or Zoom meeting. This doesn't always work, and signals get crossed. With a cloud-based software solution, the data you put when you sign up gets saved in the cloud, and everyone is on the same page. 
+
+### 5. Slow Moving
+Again, being mostly people-based, an MSSP has a lot of beaurocracy weighing it down. If a new vulnerability comes out, management first has to get approval to create a new process. Then the new process needs to be drafted up and a technical team assigned, and by that point the hackers may have gotten in. A cloud-based scanner like Sugar Security ensures every customer is getting the same latest and greatest version of our scans.
+
+
+# In with the new: Real-Time Vulnerability Detection 
+
+A simple answer is that cyber-threats happen in real-time so the response must also be real-time.
+
+Using the services of a dedicated and security-focused MSP is part of the movement towards containing and managing cyber-threats. A Managed Security Services Provider (MSSP) offers the level of cybersecurity know-how that can shore up the internal resources of an organization. However, these threats need to be identified using smart tools that work in real-time. The advent of Real-Time Vulnerability Detection provides the level of detection needed in the fast-moving threat landscape. 
+
+![product](../assets/images/product.png)
+
+## How Real-Time Vulnerability Detection Works
+Looking for vulnerabilities as they happen is the key to threat detection. Data exists in many places at once in a modern cloud-based infrastructure. It can be very difficult for an SMB or indeed any sized organization, to know where data is being accessed from, by whom, and where that data goes.  An MSSP that offers Real-Time Vulnerability Detection uses smart technologies like machine learning, a form of artificial intelligence, to extrapolate patterns of data use and spot anomalies, such as the profile of a cyber-attack. 
+
+![product](../assets/images/product.png)
+
+Real-Time Vulnerability Detection tools that are delivered by an MSSP, as-a-service, can spot an exploit, as it happens, but also prioritize it according to risk level. These tools also offer remediation tips, adding instant benefits to help build up the expertise level of the customer. Using a serverless cloud architecture designed for small business use allows for easy customization and globally scalable solutions that fit a wide variety of small business security functions. This includes malware and phishing analysis, vulnerability scans, breach monitoring, log analysis, and more.
+
+Cybersecurity threats are ever-changing. Cybercriminals don’t sit back and wait for you to open your doors to your network. Instead, they go out and proactively look for ways to deliver ransomware (or other malware) and steal login credentials and data. The SMB has to also be proactive to cyber-threat detection to keep defenses up to date and working in real-time. 
+
+If you want to see what a Next-Gen MSSP can offer your business, sign up @ https://sugarsecurity.com
