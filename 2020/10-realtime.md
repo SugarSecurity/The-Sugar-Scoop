@@ -76,8 +76,6 @@ Using the services of a dedicated and security-focused MSP is part of the moveme
 ## How Real-Time Vulnerability Detection Works
 Looking for vulnerabilities as they happen is the key to threat detection. Data exists in many places at once in a modern cloud-based infrastructure. It can be very difficult for an SMB or indeed any sized organization, to know where data is being accessed from, by whom, and where that data goes.  An MSSP that offers Real-Time Vulnerability Detection uses smart technologies like machine learning, a form of artificial intelligence, to extrapolate patterns of data use and spot anomalies, such as the profile of a cyber-attack. 
 
-![product](../assets/images/product.png)
-
 Real-Time Vulnerability Detection tools that are delivered by an MSSP, as-a-service, can spot an exploit, as it happens, but also prioritize it according to risk level. These tools also offer remediation tips, adding instant benefits to help build up the expertise level of the customer. Using a serverless cloud architecture designed for small business use allows for easy customization and globally scalable solutions that fit a wide variety of small business security functions. This includes malware and phishing analysis, vulnerability scans, breach monitoring, log analysis, and more.
 
 Cybersecurity threats are ever-changing. Cybercriminals don’t sit back and wait for you to open your doors to your network. Instead, they go out and proactively look for ways to deliver ransomware (or other malware) and steal login credentials and data. The SMB has to also be proactive to cyber-threat detection to keep defenses up to date and working in real-time. 
