@@ -1,6 +1,6 @@
 # Adapting from Pentesting to Real-Time Vulnerability Scanning
 
-Organizations need to make the upgrade from disjointed penetration tests and MSSP services to a centralized and real-time solution. In the first half of 2020, [27 billion data records were exposed](https://pages.riskbasedsecurity.com/en/2020-mid-year-data-breach-quickview-report), including personal information, login credentials, financial data, PHI health records, and more. Covid-19 added to this, with [Trend Micro finding 9 million Covid-19-related threats](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/securing-the-pandemic-disrupted-workplace-trend-micro-2020-midyear-cybersecurity-report) between January to June 2020. Many cyber-criminals specifically target smaller businesses, which are seen as ‘low hanging fruit’ with fewer resources available to prevent a cyber-attack. 
+Organizations should make the upgrade from disjointed penetration tests and MSSP services to a centralized and real-time solution. In the first half of 2020, [27 billion data records were exposed](https://pages.riskbasedsecurity.com/en/2020-mid-year-data-breach-quickview-report), including personal information, login credentials, financial data, PHI health records, and more. Covid-19 added to this, with [Trend Micro finding 9 million Covid-19-related threats](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/securing-the-pandemic-disrupted-workplace-trend-micro-2020-midyear-cybersecurity-report) between January to June 2020. Many cyber-criminals specifically target smaller businesses, which are seen as ‘low hanging fruit’ with fewer resources available to prevent a cyber-attack. 
 
 When we look at the cyber-threat situation, it feels as if cybersecurity is out of control. Just as one vulnerability or entry point is closed, another opens. The SMB is always on the run, playing catch-up as cybercriminals forge ahead, innovating around cybercrime.
 
@@ -80,4 +80,4 @@ Real-Time Vulnerability Detection tools that are delivered by an MSSP, as-a-serv
 
 Cybersecurity threats are ever-changing. Cybercriminals don’t sit back and wait for you to open your doors to your network. Instead, they go out and proactively look for ways to deliver ransomware (or other malware) and steal login credentials and data. The SMB has to also be proactive to cyber-threat detection to keep defenses up to date and working in real-time. 
 
-If you want to see what a Next-Gen MSSP can offer your business, sign up @ https://sugarsecurity.com
+If you want to see what a Next-Gen MSSP can offer your business, [check us out!](https://sugarsecurity.com)
