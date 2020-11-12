@@ -11,6 +11,3 @@ Think of us like a next-gen MSSP in the cloud, providing small IT teams powerful
 
 ## November + December
 Sugar Security highly values family and charity. These are holiday months so we are turning everything except the tech down to a simmer until 2021. 
-
-## 2021
-Major tech upgrades, blogs, then sales
