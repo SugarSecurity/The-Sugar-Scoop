@@ -10,4 +10,4 @@ Think of us like a next-gen MSSP in the cloud, providing small IT teams powerful
 ![product](../assets/images/product.png)
 
 ## November + December
-Sugar Security highly values family and charity. These are holiday months so we are turning everything except the tech down to a simmer until 2021. We're showing demos to CISOs and other cybersecurity executives comfortable with early-access software and support. Sign up here! https://sugarsecurity.com/welcome?utm_source=fall-blog
+Sugar Security highly values family and charity. These are holiday months so we are turning everything except the tech down to a simmer until 2021. We're showing demos to CISOs and other cybersecurity executives comfortable with early-access software and support. [Sign up here!](https://sugarsecurity.com/welcome?utm_source=fall-blog)
